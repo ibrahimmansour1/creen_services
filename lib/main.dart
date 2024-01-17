@@ -1,5 +1,5 @@
-import 'package:creen_services/health_screen.dart';
-import 'package:creen_services/lose_weight_screen.dart';
+import 'package:creen_services/health/health_screen.dart';
+import 'package:creen_services/lose_weight/lose_weight_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
